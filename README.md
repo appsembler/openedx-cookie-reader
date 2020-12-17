@@ -1,6 +1,8 @@
 # Open edX Cookie Reader
 A mini tool to read Open edX user info cookie.
 
+This tool is useful for making lightweight marketing site integrations with edX. It's also helpful for integrating Intercom widget that are included via Google Tag Manager to get the username without needing to modify the templates.
+
 # Usage Instructions
 
 Load the file in your page as shown in the snippet below.
